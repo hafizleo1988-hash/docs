@@ -11,7 +11,7 @@ versions:
 contentType: reference
 ---
 
-## Email verification restrictions
+## Email verification restrictionscontent/account-and-profile/reference/email-addresses-reference.md
 
 {% data reusables.user-settings.no-verification-disposable-emails %}
 
